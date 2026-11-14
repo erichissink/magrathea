@@ -1,7 +1,6 @@
 {
-  "soc": 0,
-  "mode": "unknown",
-  "price": 0,
-  "profit_today": 0,
-  "updated": ""
+  "soc": 74,
+  "active_batteries": 2,
+  "price": 0.182,
+  "updated": "2026-11-13 21:30"
 }
